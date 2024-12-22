@@ -17,6 +17,11 @@ To get started with this project, follow these steps:
 2. Open the project directory in your preferred code editor.
 3. Ensure you have a local server environment set up (e.g., XAMPP, WAMP, MAMP) to run PHP files.
 
+## Screen shot
+Initial view of the registration form
+![image](https://github.com/user-attachments/assets/47fe0e98-ed3d-4279-bca2-e301568d769b)
+
+
 ## Usage
 
 1. Open `index.html` in your web browser.
